@@ -22,4 +22,4 @@ npm start
 ## 참고
 
 - 변환 완료된 파일은 `./dist` 폴더에 저장됩니다.
-- [https://www.npmjs.com/package/browser-reverse-geocoder](browser-reverse-geocoder)를 이용해 브라우저에서 GPS좌표를 주소로 변환할 수 있습니다.
+- [browser-reverse-geocoder](https://www.npmjs.com/package/browser-reverse-geocoder)를 이용해 브라우저에서 GPS좌표를 주소로 변환할 수 있습니다.
